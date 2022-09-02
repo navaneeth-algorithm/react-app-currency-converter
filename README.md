@@ -1,7 +1,9 @@
 ## React Currency Converter Application
 
-### Python code
+### Python code here
 - [Here](https://github.com/navaneeth-algorithm/python_currency_converter)
+
+- hosted on heroku
 
 ### Currency converter url
 ```
@@ -13,14 +15,15 @@ https://evening-sierra-86528.herokuapp.com/
 /fromRate/toRate
 ```
 
-### to get conversion rate of USD in INR
+#### For Eg: to get conversion rate of `USD` in `INR`
 ```
 https://evening-sierra-86528.herokuapp.com/USD/INR
 ```
 
-### Response 
+#### Response
+
 ```json
-  {"data":"79.8197"}
+{"data":"79.8197"}
 ```
 
 ### For supported currencies 
