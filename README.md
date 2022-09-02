@@ -20,7 +20,8 @@ https://evening-sierra-86528.herokuapp.com/USD/INR
   {"data":"79.8197"}
 ```
 
-### For supported currencies [check here](input_data.json)
+### For supported currencies 
+- [check here](https://github.com/navaneeth-algorithm/python_currency_converter/blob/main/input_data.json)
 
 ### for bulding debug apk
 ```
